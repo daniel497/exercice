@@ -109,13 +109,13 @@ d’un ellipsoïde.
    On donne : v =(4/3)πabc
    Tester cette fonction par des appels avec différents nombres d’arguments.
 `````
+
 ````
-`````
 5
   .Écrire une fonction somme avec un argument « tuple de longueur variable » qui calcule
       la somme des nombres contenus dans le tuple.
       Tester cette fonction par des appels avec différents tuples d’entiers ou de flottants
- `````
+`````
 
 ````
 6 .Écrire une autre fonction somme avec trois arguments, et qui renvoie leur somme.
