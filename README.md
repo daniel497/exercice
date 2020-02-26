@@ -10,11 +10,13 @@
 ````   
 2. 
     •Saisissez un flottant. S’il est positif ou nul, affichez sa racine, sinon affichez un message
-    d’erreur.
-    
-    •L’ordre lexicographique est celui du dictionnaire.
+    d’erreur
+````
+`````
+ •L’ordre lexicographique est celui du dictionnaire.
     Saisir deux mots, comparez-les pour trouver le « plus petit » et affichez le résultat.
 ````
+    
 
 ```    
 3.
